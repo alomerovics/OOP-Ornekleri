@@ -1,0 +1,6 @@
+C:\Users\Lab03-16\source\repos\20181202_Uygulama\KosulIfadeleri_Ornek3\bin\Debug\KosulIfadeleri_Ornek3.exe.config
+C:\Users\Lab03-16\source\repos\20181202_Uygulama\KosulIfadeleri_Ornek3\bin\Debug\KosulIfadeleri_Ornek3.exe
+C:\Users\Lab03-16\source\repos\20181202_Uygulama\KosulIfadeleri_Ornek3\bin\Debug\KosulIfadeleri_Ornek3.pdb
+C:\Users\Lab03-16\source\repos\20181202_Uygulama\KosulIfadeleri_Ornek3\obj\Debug\KosulIfadeleri_Ornek3.csproj.CoreCompileInputs.cache
+C:\Users\Lab03-16\source\repos\20181202_Uygulama\KosulIfadeleri_Ornek3\obj\Debug\KosulIfadeleri_Ornek3.exe
+C:\Users\Lab03-16\source\repos\20181202_Uygulama\KosulIfadeleri_Ornek3\obj\Debug\KosulIfadeleri_Ornek3.pdb

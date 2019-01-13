@@ -1,0 +1,6 @@
+C:\Users\Lab03-16\source\repos\20190112_Uygulama\Ornek1EntityLayer\bin\Debug\Ornek1EntityLayer.dll
+C:\Users\Lab03-16\source\repos\20190112_Uygulama\Ornek1EntityLayer\bin\Debug\Ornek1EntityLayer.pdb
+C:\Users\Lab03-16\source\repos\20190112_Uygulama\Ornek1EntityLayer\obj\Debug\Ornek1EntityLayer.csprojResolveAssemblyReference.cache
+C:\Users\Lab03-16\source\repos\20190112_Uygulama\Ornek1EntityLayer\obj\Debug\Ornek1EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\Lab03-16\source\repos\20190112_Uygulama\Ornek1EntityLayer\obj\Debug\Ornek1EntityLayer.dll
+C:\Users\Lab03-16\source\repos\20190112_Uygulama\Ornek1EntityLayer\obj\Debug\Ornek1EntityLayer.pdb

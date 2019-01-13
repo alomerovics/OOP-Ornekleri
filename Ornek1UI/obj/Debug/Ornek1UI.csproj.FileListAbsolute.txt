@@ -1,0 +1,11 @@
+C:\Users\Lab03-16\source\repos\20190112_Uygulama\Ornek1UI\bin\Debug\Ornek1UI.exe.config
+C:\Users\Lab03-16\source\repos\20190112_Uygulama\Ornek1UI\bin\Debug\Ornek1UI.exe
+C:\Users\Lab03-16\source\repos\20190112_Uygulama\Ornek1UI\bin\Debug\Ornek1UI.pdb
+C:\Users\Lab03-16\source\repos\20190112_Uygulama\Ornek1UI\bin\Debug\Ornek1BussinessLayer.dll
+C:\Users\Lab03-16\source\repos\20190112_Uygulama\Ornek1UI\bin\Debug\Ornek1EntityLayer.dll
+C:\Users\Lab03-16\source\repos\20190112_Uygulama\Ornek1UI\bin\Debug\Ornek1BussinessLayer.pdb
+C:\Users\Lab03-16\source\repos\20190112_Uygulama\Ornek1UI\bin\Debug\Ornek1EntityLayer.pdb
+C:\Users\Lab03-16\source\repos\20190112_Uygulama\Ornek1UI\obj\Debug\Ornek1UI.csprojResolveAssemblyReference.cache
+C:\Users\Lab03-16\source\repos\20190112_Uygulama\Ornek1UI\obj\Debug\Ornek1UI.csproj.CoreCompileInputs.cache
+C:\Users\Lab03-16\source\repos\20190112_Uygulama\Ornek1UI\obj\Debug\Ornek1UI.exe
+C:\Users\Lab03-16\source\repos\20190112_Uygulama\Ornek1UI\obj\Debug\Ornek1UI.pdb
